@@ -1,0 +1,19 @@
+.gett{
+    
+    height: 50px;
+    width: 50px;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: #973d3d solid 2px;
+}
+.pic{
+    height: 50%;
+    background-image: url('../Images/Welcome.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 25%;
+}
